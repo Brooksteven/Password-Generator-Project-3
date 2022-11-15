@@ -21,3 +21,4 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+URL for github repository: https://brooksteven.github.io/Password-Generator-Project-3/
